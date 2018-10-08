@@ -1,3 +1,4 @@
+__pycache__
 fileupload_local/uploads/*
 .idea
 session/flask_session
